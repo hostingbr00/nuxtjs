@@ -6,6 +6,8 @@ Deploy your [Nuxt.js](https://nuxtjs.org) project to Vercel with zero configurat
 
 _Live Example: https://nuxtjs-template.vercel.app_
 
+_Cyclic Example:
+
 ## Setup
 
 Install the dependencies:
